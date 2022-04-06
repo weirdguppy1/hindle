@@ -1,0 +1,48 @@
+{
+  "words": [
+    {
+      "hints": [
+        "Its knowledge is abundant.",
+        "It is used by scholars and students all around the world.",
+        "Sometimes, it starts great and ends even better.",
+        "If you use this thing too much, you may be called a 'nerd'.",
+        "It can always teach you something.",
+        "It comes in different sizes, I also come in different styles."
+      ],
+      "word": "BOOKS"
+    }, 
+    {
+      "hints": [
+        "It is a feeling.",
+        "When you feel this emotion, you may spit profanity!",
+        "It is hard to control.",
+        "It is the leader for starting arguments.",
+        "It can make you hot and red all over.",
+        "N/A"
+      ],
+      "word": "ANGER"
+    },
+    {
+      "hints": [
+        "It is a food.",
+        "All types of creatures love the sweet flavor.",
+        "When you chomp into it you'll mutter 'mmmm... crispy'.",
+        "Let's visit Grandma Smith!",
+        "It is a fruit.",
+        "It is hand-picked."
+      ],
+      "word": "APPLE"
+    },
+    {
+      "hints": [
+        "I am a popular destination.",
+        "I love all seasons! Except... winter.",
+        "This may be weird, but half-naked people love me.",
+        "Remember to wear shoes, because the ground can get hot!",
+        "You will see castles on top me.",
+        "🎶 On the ___ you'll find them there. In the sun and salty air. The girls on the ___ look so fine! "
+      ],
+      "word": "BEACH"
+    }
+  ]
+}
